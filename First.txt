@@ -1,3 +1,3 @@
 Here is my first file.
-You forgot to put in second line.
+You forgot to put in the second line.
 It's a text file
